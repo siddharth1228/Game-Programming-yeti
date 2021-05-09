@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/gp-jcomp.unity
+- path: Assets/Scenes/gp-jcomp.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0

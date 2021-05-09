@@ -3,7 +3,12 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - collectible
+  - Enemy
+  - Enemy_Bear
+  - Enemy_Bird
+  - PowerBar
   layers:
   - Default
   - TransparentFX
@@ -11,7 +16,7 @@ TagManager:
   - 
   - Water
   - UI
-  - 
+  - Ground
   - 
   - 
   - 
@@ -43,6 +48,9 @@ TagManager:
     locked: 0
   - name: Background
     uniqueID: 284415977
+    locked: 0
+  - name: Middle
+    uniqueID: 3865944549
     locked: 0
   - name: Entity
     uniqueID: 2407450793
