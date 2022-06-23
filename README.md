@@ -1,0 +1,7 @@
+# Game-Programming-yeti
+Yeti
+
+The game ‘Snowy Mountains’ is a two-dimensional side scroller game. The main aim of the game is for the penguin to collect food and also to reach its home. The penguin on the journey home in some places is confronted by different sorts of enemies. He can either run away from them by using his ice bullets which he’s able to use only after collecting the ice cream cone.
+This game was developed in Unity Engine, and has two levels, both being the snowy mountain environment. The game has two types of enemies. First being a “Polar Bear” which can harm the penguin if it goes near it. The bear is a land-type enemy which basically as it mentions is an enemy which only exists on land and will not jump. The second one being, a “Skuas”, a bird which lives in the Antarctic region. Some birds mind their own business and fly about whereas some birds chase the penguin if the penguin doesn't run away quickly. Both these enemies can be defeated either by a mid to long range attack, using the ICE BULLET or by just jumping on them and knocking them out.
+The game’s collectibles are the ice creams which is the food that the penguin likes and wants to collect. These ice cream cones are also what give the penguin his special ability to shoot ice bullets.
+The game requires a total of around 3-4 minutes to be completed if played properly. The player can quit the game using four ways, first being the main menu, second after dying and reaching the game over menu, pausing the menu and the last being completing the game.
